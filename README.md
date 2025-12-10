@@ -1,4 +1,4 @@
-🤧 Simple ChatBot Using Gemini API
+**🤧 Simple ChatBot Using Gemini API**
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
-**Uma ferramenta elegante para gerenciamento de pacotes no Termux**
+**INCLUDED VOICE CHAT**
 
 </div>
 ```bash
