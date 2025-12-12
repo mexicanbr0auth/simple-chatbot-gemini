@@ -8,11 +8,4 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 **INCLUDED VOICE CHAT**
-
-</div>
-```bash
-
-#pip install requirements.txt
-
-#python chatbot.py
-
+`pip install -r requirements.txt`
