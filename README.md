@@ -12,7 +12,7 @@
 </div>
 ```bash
 
-pip install requirements.txt
+#pip install requirements.txt
 
-python chatbot.py
+#python chatbot.py
 
